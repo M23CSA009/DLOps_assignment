@@ -37,3 +37,6 @@ plt.ylabel('Output')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+
+#no bugs encountered in the code
